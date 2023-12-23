@@ -6,7 +6,7 @@ Full Stack Developer | Aspiring Software Engineer\
 ⚡ Fun fact: Algorithm is a word used by Programmers when they do not want to explain what they did.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,vikas1306v)](https://github.com/anuraghazra/github-readme-stats)
 \
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,java,spring,react,git,nodejs,docker)](https://skillicons.dev)
