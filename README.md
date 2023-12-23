@@ -5,9 +5,8 @@ Full Stack Developer | Aspiring Software Engineer\
 🤔 I’m looking for help with Cloud\
 ⚡ Fun fact: Algorithm is a word used by Programmers when they do not want to explain what they did.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=6&hide=html,css&exclude_repo=anuraghazra.github.io&hide_border=true&custom_title=Top%20Languages&card_width=300&title_color=2f80ed&icon_color=2f80ed&text_color=333333&bg_color=ffffff&hide_title=true&hide_rank=true&custom_params=java=40%,javascript=30%,spring=30%)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
-<h1>i am vikas verma</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 \
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,java,spring,react,git,nodejs,docker)](https://skillicons.dev)
