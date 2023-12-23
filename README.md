@@ -2,7 +2,7 @@
 ### Hey there👋, I'm Vikas
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-🔭 In my free time, I solve problems on GeeksforGeeks ,Leetcode and read tech articles.
+🔭 In my free time, I solve problems on GeeksforGeeks ,Leetcode and read tech articles.\
 
 📝 I’m currently learning Typescript, Spring ,GenerativeAi(LangChain).
 
