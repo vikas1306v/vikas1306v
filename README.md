@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there👋, I'm Vikas
+Full Stack Developer | Aspiring Software Engineer
+🔭 I’m currently working on Freelance Projects
+📝 I’m currently learning Typescript, Redis
+🤔 I’m looking for help with Cloud
+⚡ Fun fact: Algorithm is a word used by Programmers when they do not want to explain what they did.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <!--
 **vikas1306v/vikas1306v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
