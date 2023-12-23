@@ -10,8 +10,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ⚡ Fun fact: Algorithm is a word used by Programmers when they do not want to explain what they did.
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/vikas-verma-80646521a/"><img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<img src="https://komarev.com/ghpvc/?vikas1306v&style=flat-square&color=blue" alt=""/>
+📫 How to reach me: <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 ---
 
 
