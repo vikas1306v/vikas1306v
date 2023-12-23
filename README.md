@@ -1,9 +1,20 @@
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+---
 ### Hey there👋, I'm Vikas
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.\
+
 🔭 In my free time, I solve problems on GeeksforGeeks ,Leetcode and read tech articles.\
+
 📝 I’m currently learning Typescript, Spring ,GenerativeAi(LangChain)\
+
 🤔 I’m looking for help with Cloud\
+
 ⚡ Fun fact: Algorithm is a word used by Programmers when they do not want to explain what they did.
+
 ---
 
 
