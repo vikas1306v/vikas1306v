@@ -5,7 +5,8 @@ Full Stack Developer | Aspiring Software Engineer\
 🤔 I’m looking for help with Cloud\
 ⚡ Fun fact: Algorithm is a word used by Programmers when they do not want to explain what they did.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&size_weight=0.5&count_weight=0.5))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&size_weight=0.5&count_weight=0.5))\
+[![My Skills](https://skillicons.dev/icons?i=js,java,spring)](https://skillicons.dev)
 
 <!--
 **vikas1306v/vikas1306v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
