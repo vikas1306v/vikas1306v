@@ -1,16 +1,18 @@
 ### Hey there👋, I'm Vikas
-Full Stack Developer | Aspiring Software Engineer\
-🔭 I’m currently working on Freelance Projects\
-📝 I’m currently learning Typescript, Redis\
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.\
+🔭 In my free time, I solve problems on GeeksforGeeks ,Leetcode and read tech articles.\
+📝 I’m currently learning Typescript, Spring ,GenerativeAi(LangChain)\
 🤔 I’m looking for help with Cloud\
 ⚡ Fun fact: Algorithm is a word used by Programmers when they do not want to explain what they did.
+---
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikas1306v&theme=dark&background=000000)](https://git.io/streak-stats)
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas1306v&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 \
-<br>
+---
+### :hammer_and_wrench: Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,java,spring,react,git,nodejs,docker)](https://skillicons.dev)
 
 <!--
